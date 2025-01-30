@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "sourswelter:block/soursprout"
+  },
+  "render_type": "cutout"
+}

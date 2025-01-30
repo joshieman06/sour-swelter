@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "sourswelter:block/soursprout_plant"
+  },
+  "render_type": "cutout"
+}

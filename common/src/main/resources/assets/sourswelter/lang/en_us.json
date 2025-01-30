@@ -1,0 +1,5 @@
+{
+  "death.attack.acid_spray": "%s's face was melted off",
+  "death.attack.acid_spray.player": "%s's face was melted off by %s",
+  "death.attack.acid_spray.self": "%s dissolved themselves"
+}

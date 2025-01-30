@@ -1,0 +1,53 @@
+{
+  "type": "sourswelter:sourshroom",
+  "config": {
+    "cap_provider": {
+      "type": "minecraft:weighted_state_provider",
+      "entries": [
+        {
+          "data": {
+            "Name": "sourswelter:sourshroom_block",
+            "Properties": {
+              "down": "false",
+              "east": "true",
+              "north": "true",
+              "south": "true",
+              "up": "true",
+              "west": "true"
+            }
+          },
+          "weight": 30
+        },
+        {
+          "data": {
+            "Name": "sourswelter:sourshroom_spore_block",
+            "Properties": {
+              "down": "false",
+              "east": "true",
+              "north": "true",
+              "south": "true",
+              "up": "true",
+              "west": "true"
+            }
+          },
+          "weight": 1
+        }
+      ]
+    },
+    "stem_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:mushroom_stem",
+        "Properties": {
+          "down": "false",
+          "east": "true",
+          "north": "true",
+          "south": "true",
+          "up": "false",
+          "west": "true"
+        }
+      }
+    },
+    "foliage_radius": 2
+  }
+}

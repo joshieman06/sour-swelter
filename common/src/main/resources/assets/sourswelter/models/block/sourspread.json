@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft:block/dirt",
+    "side": "sourswelter:block/sourspread_side",
+    "top": "sourswelter:block/sourspread_top"
+  }
+}

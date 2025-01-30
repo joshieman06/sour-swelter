@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "snowy=true": { "model": "minecraft:block/snowy_grass" },
+    "snowy=false": { "model": "sourswelter:block/sourspread" }
+  }
+}
